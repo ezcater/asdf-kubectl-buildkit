@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/vmware-tanzu/buildkit-cli-for-kubectl"
+GH_REPO="https://github.com/vmware-archive/buildkit-cli-for-kubectl"
 TOOL_NAME="kubectl-buildkit"
 TOOL_TEST="kubectl-buildkit version --help"
 
