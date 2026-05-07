@@ -3,7 +3,7 @@
 # asdf-kubectl-buildkit [![Build](https://github.com/ezcater/asdf-kubectl-buildkit/actions/workflows/build.yml/badge.svg)](https://github.com/ezcater/asdf-kubectl-buildkit/actions/workflows/build.yml) [![Lint](https://github.com/ezcater/asdf-kubectl-buildkit/actions/workflows/lint.yml/badge.svg)](https://github.com/ezcater/asdf-kubectl-buildkit/actions/workflows/lint.yml)
 
 
-[kubectl-buildkit](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl) plugin for the [asdf version manager](https://asdf-vm.com).
+[kubectl-buildkit](https://github.com/vmware-archive/buildkit-cli-for-kubectl) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
